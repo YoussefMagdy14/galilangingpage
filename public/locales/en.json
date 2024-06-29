@@ -1,0 +1,39 @@
+{
+  "hi": "hi",
+  "header": {
+    "pricing": "Pricing",
+    "about": "About",
+    "feature": "Feature",
+    "Testimonial": "Testimonial",
+    "getourapp": "Our App",
+    "services": "Services",
+    "contactus": "Contact us"
+  },
+  "hero": {
+    "p": "Experience the convenience of seamless travel with Gali's top-notch ride-hailing services. Whether you're commuting to work, heading to the airport, or exploring the city",
+    "h1": "Ride-Hailing Services"
+  },
+  "features": {
+    "h1": "Why Choose Gali ?",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula,",
+    "feature1": "Feature 1",
+    "feature2": "Feature 2",
+    "feature3": "Feature 3",
+    "feature4": "Feature 4"
+  },
+  "testimonilist": {
+    "h1": "Trusted by Thousands of Happy Customer",
+    "p": "These are the stories of our customers who have joined us",
+    "name": "Lorem ipsum",
+    "rating": "4.5",
+    "testimoni": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula, quam felis tempus nulla, sit amet ultricies velit mauris ut orci. Phasellus ac justo nec urna ultricies sollicitudin. Vivamus at diam in quam ultrices suscipit a ac dui. Nam ut risus nec felis sagittis viverra. Aliquam erat volutpat. Duis fringilla, leo ac pharetra tincidunt, velit turpis tincidunt justo, nec dapibus justo eros a libero."
+  },
+  "ourapp": {
+    "h1": "Download our App",
+    "p": "Get Special Features !"
+  },
+  "footer": {
+    "p": "passenger transportation services provide you with everything you need.",
+    "h1": "Gali's "
+  }
+}
