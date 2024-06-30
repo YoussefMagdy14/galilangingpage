@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
 import useTranslation from "../../hook/useTranslation";

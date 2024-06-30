@@ -51,6 +51,10 @@ li.check:before {
   top: -0.5em;
   font-size: 400%;
 }
+.rtl-circle-check {
+  list-style-position: inside;
+  direction: rtl;
+}
 /* Slideshow */
 .slick-dots li {
   @apply inline-block;

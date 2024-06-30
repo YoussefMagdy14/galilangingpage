@@ -35,5 +35,17 @@
   "footer": {
     "p": "passenger transportation services provide you with everything you need.",
     "h1": "Gali's "
+  },
+  "servicescar": {
+    "h1": "Car ",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula"
+  },
+  "servicesmotorcycle": {
+    "h1": "Motor Cycle ",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula"
+  },
+  "servicestuktok": {
+    "h1": "Tuktok ",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, nunc id interdum vehicula"
   }
 }
